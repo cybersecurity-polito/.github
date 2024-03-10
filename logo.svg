@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="500"
+   height="500"
+   viewBox="0 0 132.29167 132.29167"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   sodipodi:docname="logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="1.3523148"
+     inkscape:cx="106.11434"
+     inkscape:cy="276.19308"
+     inkscape:window-width="2283"
+     inkscape:window-height="1235"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#002b49;fill-opacity:1;stroke:none;stroke-width:0.242823;stroke-opacity:1"
+       id="rect4"
+       width="132.29167"
+       height="132.29167"
+       x="-4.4408921e-16"
+       y="-4.4408921e-16"
+       inkscape:label="rect4" />
+    <text
+       xml:space="preserve"
+       style="font-size:15.6297px;fill:#ffffff;fill-opacity:0.85;stroke-width:0.209;stroke-dasharray:none"
+       x="119.05252"
+       y="60.689178"
+       id="text1"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.6297px;font-family:Sans;-inkscape-font-specification:Sans;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:0.9;stroke-width:0.209;stroke-dasharray:none"
+         x="119.05252"
+         y="60.689178"
+         id="tspan3">cybersecurity</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.6297px;font-family:Sans;-inkscape-font-specification:Sans;text-align:end;text-anchor:end;fill:#ef7b00;fill-opacity:0.85098;stroke-width:0.209;stroke-dasharray:none"
+         x="119.05252"
+         y="80.226303"
+         id="tspan4">polito</tspan></text>
+  </g>
+</svg>
