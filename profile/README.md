@@ -4,7 +4,7 @@ Welcome to Cybersecurity Polito, the GitHub organization for cybersecurity stude
 
 ## About Us
 
-Cybersecurity Polito is a community of students studying cybersecurity at Politecnico di Torino. This repository aims to gather all the valuable resources for them.
+Cybersecurity Polito is a **community of students** of cybersecurity at Politecnico di Torino. This repository aims to gather all the valuable resources for them.
 
 ## Our Goal
 
