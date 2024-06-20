@@ -13,7 +13,6 @@ Our goal is to:
 - Create a centralized repository for collecting course notes from various cybersecurity-related courses at Politecnico di Torino.
 - Ensure that these notes are regularly updated to reflect the latest course content and developments in the field.
 - Provide a platform where all students are encouraged to contribute their notes and modifications, fostering collaboration and knowledge sharing among peers.
- Cultivate a supportive and inclusive community where members can learn, grow, and connect with like-minded individuals.
 
 
 ## License
