@@ -1,6 +1,6 @@
-# Cybersecurity Polito
+# Cybersecurity PoliTO
 
-Welcome to Cybersecurity Polito, the GitHub organization for cybersecurity students at Politecnico di Torino.
+Welcome to Cybersecurity PoliTO, the GitHub organization for cybersecurity students at Politecnico di Torino.
 
 ## About Us
 
